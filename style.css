@@ -23,6 +23,7 @@ body {
     position: relative;
 }
 
+/* 
 #profilePicture, #profilePicture img {
     position: relative;
     width: 96px;
@@ -32,6 +33,7 @@ body {
     border-radius: 50%;
     -webkit-tap-highlight-color: transparent;
 }
+*/
 
 .text {
     color: var(--accentColor);
