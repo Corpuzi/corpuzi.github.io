@@ -8,7 +8,7 @@
     --delay: .3s;
 }
 
-#header {
+h1 {
     margin: 0;
     padding-top: 0;
     text-align: center;
