@@ -23,8 +23,8 @@ body {
     position: relative;
 }
 
-/* 
 #profilePicture, #profilePicture img {
+/*
     position: relative;
     width: 96px;
     height: 96px;
@@ -32,8 +32,13 @@ body {
     margin: 35px auto 20px;
     border-radius: 50%;
     -webkit-tap-highlight-color: transparent;
-}
 */
+    padding-top: 100px;
+    padding-right: 30px;
+    padding-bottom: 100px;
+    padding-left: 80px;
+}
+
 
 .text {
     color: var(--accentColor);
