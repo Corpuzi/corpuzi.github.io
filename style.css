@@ -21,19 +21,8 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    background-image: url("https://mtlfriendsca.files.wordpress.com/2022/03/mtlfriends-png-e1646285022466.png");
 }
-
-#profilePicture, #profilePicture img {
-    position: relative;
-    width: 96px;
-    height: 96px;
-    -webkit-tap-highlight-color: transparent;
-    padding-top: 10px;
-    padding-right: 25px;
-    padding-bottom: 10px;
-    padding-left: 25px;
-}
-
 
 .text {
     color: var(--accentColor);
