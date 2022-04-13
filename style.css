@@ -10,7 +10,7 @@
 
 body {
     margin: 0;
-    padding: 0;
+    padding-top: 25px;
     min-height: 100vh;
     font-family: var(--font);
     background: radial-gradient(ellipse at bottom, var(--bgColor) 0%, var(--bgColor2) 100%);
